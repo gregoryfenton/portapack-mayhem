@@ -34,7 +34,7 @@ This fork (**Mayhem**) uses *major.minor.release* [semantic versioning](https://
 
 ## What about Havoc/GridRF/jamesshao8/jboone's?
 * jboone's PortaPack: the [vanilla](https://en.wikipedia.org/wiki/Vanilla_software) experience
-* Havoc: It was the most popular fork of jboone's PortaPack, currrently it in Archive status so it is not being developed
+* Havoc: It was the most popular fork of jboone's PortaPack, currrently, it is not being maintained nor updated
 * jamesshao8: He keeps his own version of the fork, while not attached as a fork to anything
 * GridRF: They sell PortaPack clones with their own firmware based on a old version, which has no sourcecode available
 
