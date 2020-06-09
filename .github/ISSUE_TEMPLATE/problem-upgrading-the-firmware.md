@@ -13,7 +13,7 @@ Describe here why you are unable to upgrade the firmware. Before describing your
 **Were you able to update the firmware before?**
 Things might be confusing the first time, please check the video available on the link above if this is your first time.
 
-**Can you try the upgrade with a different PC/Portapack/HackRF?**
+**Can you try the upgrade with a different PC/PortaPack/HackRF?**
 If is possible, swap hardware and try again. Also, try different USB cables, even if the one you are using works fine for other purposes.
 
 **Additional**
